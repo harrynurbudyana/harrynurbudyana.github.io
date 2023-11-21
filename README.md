@@ -1,7 +1,6 @@
 # Simple Wedding Web Invitation
 
-A simple wedding web invitation created with ReactJS and Tailwind CSS. This is the first React application I created after learning React and Tailwind CSS last year.
-There are still many issues with it, but I chose to share it as an archive and to track my progress in learning and creating website projects with React and Tailwind CSS.
+This repo is cloned from https://github.com/dita-izaty/simple_wedding_invitation
 
 
 ## Demo
@@ -9,9 +8,9 @@ There are still many issues with it, but I chose to share it as an archive and t
 https://simple-wedding-web-invitation.netlify.app/
 
 
-## Screenshots
+<!-- ## Screenshots -->
 
-![scrnli_9_29_2022_9-58-25 PM](https://user-images.githubusercontent.com/69719643/193068495-63fbd4b2-35f4-4ef4-b14e-15050c289b2b.png)
+<!-- ![scrnli_9_29_2022_9-58-25 PM](https://user-images.githubusercontent.com/69719643/193068495-63fbd4b2-35f4-4ef4-b14e-15050c289b2b.png) -->
 
 
 ## Run Locally
