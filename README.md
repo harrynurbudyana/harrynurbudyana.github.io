@@ -3,9 +3,9 @@
 This repo is cloned from https://github.com/dita-izaty/simple_wedding_invitation
 
 
-## Demo
+<!-- ## Demo
 
-https://simple-wedding-web-invitation.netlify.app/
+https://simple-wedding-web-invitation.netlify.app/ -->
 
 
 <!-- ## Screenshots -->
@@ -13,7 +13,7 @@ https://simple-wedding-web-invitation.netlify.app/
 <!-- ![scrnli_9_29_2022_9-58-25 PM](https://user-images.githubusercontent.com/69719643/193068495-63fbd4b2-35f4-4ef4-b14e-15050c289b2b.png) -->
 
 
-## Run Locally
+<!-- ## Run Locally
 
 Clone the project
 
@@ -37,5 +37,5 @@ Start the server
 
 ```bash
   yarn start
-```
+``` -->
 
