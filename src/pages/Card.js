@@ -1,7 +1,8 @@
 import React from 'react'
 import profile from '../images/couple.png'
 import logome from '../images/logome.png'
-import meant2be from '../audio/meant2be.mp3'
+// import meant2be from '../audio/meant2be.mp3'
+import iwannagrowoldwithyou from '../audio/iwannagrowoldwithyou.m4a'
 
 function Card() {
     return (
@@ -26,7 +27,7 @@ function Card() {
             </div>
             
             <div className='bg-white-700 text-sm text-white text-center inset-x-0 bottom-0 p-9'>
-                <audio className='object-center mx-auto mt-1 mb-7' autoPlay='{true}' allow='autoplay' src={meant2be} controls>
+                <audio className='object-center mx-auto mt-1 mb-7' autoPlay='{true}' allow='autoplay' src={iwannagrowoldwithyou} controls>
                     <p>If you are reading this, it is because your browser does not support the audio element.</p>
                 </audio>
                 
