@@ -1,6 +1,6 @@
 import React from 'react'
 import profile from '../images/couple.png'
-import logodir from '../images/logodir.png'
+import logome from '../images/logome.png'
 import meant2be from '../audio/meant2be.mp3'
 
 function Card() {
@@ -34,7 +34,7 @@ function Card() {
                     Created with 💙 by
                     <a className='text-stone-300 underline decoration-orange-800 hover:text-brown-300'> Us </a>
                     <p className=''>
-                        <img className='w-12 mx-auto justify-center' src={logodir} alt = 'logo dir'/>
+                        <img className='w-12 mx-auto justify-center' src={logome} alt = 'logo dir'/>
                     </p>
                 </footer>
 
