@@ -37,7 +37,7 @@ function Event() {
                 </p>
             </div>
 
-            <iframe className='object-center mt-2 mb-7 mx-auto' title='Maps' src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3967.1854686676556!2d106.1373777!3d-6.1057107!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e418b910071fb51%3A0x593ae02107b72332!2sGedung%20Sami%20Jaya%20Serang!5e0!3m2!1sid!2sid!4v1700533810004!5m2!1sid!2sid' width='360' height='360' allowFullScreen='' loading='lazy'></iframe>
+            <iframe className='object-center mt-2 mb-7 mx-auto' title='Maps' src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d247.94972823503812!2d106.13682291303148!3d-6.10433568752368!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e418b3d1b1ce983%3A0x99562b03e2340559!2sGraha%20Samidjaya!5e0!3m2!1sid!2sid!4v1701182867009!5m2!1sid!2sid' width='360' height='360' allowFullScreen='' loading='lazy'></iframe>
 
             <div className='text-md text-center mt-3 mb-7 font-normal text-brown-250 leading-relaxed'>
                 Merupakan suatu kehormatan dan kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/i berkenan hadir untuk memberikan do'a restu kepada putra putri kami
