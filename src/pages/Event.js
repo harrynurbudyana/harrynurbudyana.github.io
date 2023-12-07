@@ -10,7 +10,7 @@ function Event() {
                     Hari, Tanggal :
                 </span>
                 <p className='bg-clip-text font-medium text-transparent bg-gradient-to-r from-white to-violet-500'>
-                    Rabu, 02 Februari 2022
+                    Sabtu, 13 Januari 2024
                 </p>
             </div>
 
