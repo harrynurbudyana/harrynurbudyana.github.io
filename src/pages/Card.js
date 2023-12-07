@@ -34,7 +34,7 @@ function Card() {
                 
                 <footer className='text-fuchsia-950 mt-5 opacity-70'>
                     Created with 💙 by
-                    <a className='text-fuchsia-950 underline decoration-orange-800 hover:text-brown-300'> Us </a>
+                    <p className='text-fuchsia-950 underline decoration-orange-800 hover:text-brown-300'> Us </p>
                     <p className=''>
                         <img className='w-12 mx-auto justify-center' src={logome} alt = 'logo dir'/>
                     </p>
