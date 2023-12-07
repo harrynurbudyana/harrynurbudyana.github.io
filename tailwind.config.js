@@ -19,6 +19,9 @@ module.exports = {
         // 'brown': '#E6D0DE',
         // 'choco': '#C7998C',
       },
+      backgroundImage: {
+        'floral-pattern' : "url(.src/images/5226644.jpg)"
+      },
     },
   },
   plugins: [],
