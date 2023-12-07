@@ -2,11 +2,14 @@ import React from 'react'
 import profile from '../images/couple.png'
 import logome from '../images/logome.png'
 // import meant2be from '../audio/meant2be.mp3'
-import iwannagrowoldwithyou from '../audio/iwannagrowoldwithyou.m4a'
+// import iwannagrowoldwithyou from '../audio/iwannagrowoldwithyou.m4a'
+import AudioPlayer from '../components/AudioPlayer'
+
+
 
 function Card() {
     return (
-        <div className='min-h-screen bg-gradient-to-r from-borahe to-fuchsia-50 py-20 px-3'>
+        <div className='min-h-screen bg-floral-pattern py-20 px-3'>
             <div className='flex flex-col justify-center max-w-xs mx-auto bg-gradient-to-r from-borahe to-fuchsia-50 shadow-xl rounded-xl py-12 px-12 '>
                 <div className=''>
                     <img className='w-32 mx-auto shadow-xl rounded-full drop-shadow-sm' src={profile} alt = 'profile sc'/>
@@ -27,13 +30,11 @@ function Card() {
             </div>
             
             <div className='bg-white-700 text-sm text-white text-center inset-x-0 bottom-0 p-9'>
-                <audio className='object-center mx-auto mt-1 mb-7' autoPlay='{true}' allow='autoplay' src={iwannagrowoldwithyou} controls>
-                    <p>If you are reading this, it is because your browser does not support the audio element.</p>
-                </audio>
+                <AudioPlayer></AudioPlayer>
                 
-                <footer className='text-stone-300 mt-5 opacity-70'>
+                <footer className='text-fuchsia-950 mt-5 opacity-70'>
                     Created with 💙 by
-                    <a className='text-stone-300 underline decoration-orange-800 hover:text-brown-300'> Us </a>
+                    <a className='text-fuchsia-950 underline decoration-orange-800 hover:text-brown-300'> Us </a>
                     <p className=''>
                         <img className='w-12 mx-auto justify-center' src={logome} alt = 'logo dir'/>
                     </p>

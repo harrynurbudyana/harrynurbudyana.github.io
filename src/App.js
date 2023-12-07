@@ -8,7 +8,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-      <div className='min-h-screen overflow-x-auto bg-slate-900'>
+      <div className='min-h-screen overflow-x-auto bg-floral-pattern'>
         <Card />
         <Home />
         <Couple /> 

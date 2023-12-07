@@ -20,7 +20,7 @@ module.exports = {
         // 'choco': '#C7998C',
       },
       backgroundImage: {
-        'floral-pattern' : "url(.src/images/5226644.jpg)"
+        'floral-pattern' : "url(/src/images/5226644.jpg)"
       },
     },
   },
