@@ -4,7 +4,7 @@ import logome from '../images/logome.png'
 
 const Footer = () => {
     return (
-        <div className='bg-floral-pattern text-sm text-center inset-x-0 bottom-0 p-2'>
+        <div className='bg-transparent text-sm text-center inset-x-0 bottom-0 p-2'>
             <footer className='mt-3'>
                 Created with 💙 by   
                 <a href='https://www.linkedin.com/in/harrynurbudyana/' className='underline decoration-pink-500 text-cream text-underline-offset-4 hover:text-pink-500'> Lawkidd  </a>

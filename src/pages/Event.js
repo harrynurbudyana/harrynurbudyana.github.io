@@ -38,7 +38,9 @@ function Event() {
             </div>
 
             <iframe className='object-center mt-2 mb-7 mx-auto' title='Maps' src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d247.94972823503812!2d106.13682291303148!3d-6.10433568752368!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e418b3d1b1ce983%3A0x99562b03e2340559!2sGraha%20Samidjaya!5e0!3m2!1sid!2sid!4v1701182867009!5m2!1sid!2sid' width='360' height='360' allowFullScreen='' loading='lazy'></iframe>
-
+            <a href='https://maps.app.goo.gl/nqu5oVgxrNs93Ud1A'>
+                <button className='bg- rounded-2xl'>Buka Maps</button>
+            </a>
             <div className='text-md text-center mt-3 mb-7 font-normal text-brown-250 leading-relaxed'>
                 Merupakan suatu kehormatan dan kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/i berkenan hadir untuk memberikan do'a restu kepada putra putri kami
             </div>

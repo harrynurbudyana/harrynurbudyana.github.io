@@ -9,7 +9,7 @@ import AudioPlayer from '../components/AudioPlayer'
 
 function Card() {
     return (
-        <div className='min-h-screen bg-floral-pattern py-20 px-3'>
+        <div className='min-h-screen bg-transparent py-20 px-3'>
             <div className='flex flex-col justify-center max-w-xs mx-auto bg-white shadow-xl rounded-xl py-12 px-12 '>
                 <div className=''>
                     <img className='w-32 mx-auto shadow-xl rounded-full drop-shadow-sm' src={profile} alt = 'profile sc'/>
