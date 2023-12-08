@@ -10,7 +10,7 @@ import AudioPlayer from '../components/AudioPlayer'
 function Card() {
     return (
         <div className='min-h-screen bg-floral-pattern py-20 px-3'>
-            <div className='flex flex-col justify-center max-w-xs mx-auto bg-gradient-to-r from-borahe to-fuchsia-50 shadow-xl rounded-xl py-12 px-12 '>
+            <div className='flex flex-col justify-center max-w-xs mx-auto bg-white shadow-xl rounded-xl py-12 px-12 '>
                 <div className=''>
                     <img className='w-32 mx-auto shadow-xl rounded-full drop-shadow-sm' src={profile} alt = 'profile sc'/>
                 </div>
@@ -19,7 +19,7 @@ function Card() {
                         We Invite You To Celeberate Our Wedding
                     </span>
                     
-                    <p className='text-xl md:text-2xl mt-3 mb-3 bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500 font-extrabold'>
+                    <p className='text-xl md:text-2xl mt-3 mb-3 bg-clip-text text-transparent bg-gradient-to-r from-brown-200 to-cream font-extrabold'>
                         Fina & Harry
                     </p>
                     <div className='flex align-center just-center mt-3'></div>
@@ -34,7 +34,9 @@ function Card() {
                 
                 <footer className='text-fuchsia-950 mt-5 opacity-70'>
                     Created with 💙 by
-                    <p className='text-fuchsia-950 underline decoration-orange-800 hover:text-brown-300'> Us </p>
+                    <a href='https://www.linkedin.com/in/harrynurbudyana/' target='_blank' rel='noreferrer'>
+                        <p className='text-fuchsia-950 underline decoration-orange-800 hover:text-brown-300' href="https://www.linkedin.com/in/harrynurbudyana/"> Lawkidd </p>
+                    </a>
                     <p className=''>
                         <img className='w-12 mx-auto justify-center' src={logome} alt = 'logo dir'/>
                     </p>

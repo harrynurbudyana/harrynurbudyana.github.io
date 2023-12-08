@@ -30,10 +30,10 @@ function Event() {
                 </span>
                     
                 <p className='bg-clip-text font-medium text-transparent bg-gradient-to-r from-white to-violet-500'>
-                    Four Seasons Resort Maldives
+                    Graha Samidjaya
                 </p>
                 <p className='text-sm font-normal mt-4 mb-0 italic bg-clip-text text-transparent bg-gradient-to-r from-white to-violet-500'>
-                    Landaa Giraavaru, Baa Atoll, Maldives
+                    Kota Serang, Provinsi Banten, Indonesia
                 </p>
             </div>
 
@@ -68,8 +68,8 @@ function Event() {
             <div className='mb-8'>               
                 <p className='bg-clip-text text-md mb-3 font-medium text-transparent bg-gradient-to-r from-white to-violet-400'>Kami yang berbahagia</p>
 
-                <p className='bg-clip-text text-md font-bold text-transparent bg-gradient-to-r from-pink-700 to-white'>Kel. Bpk Akira - Ibu Myoi
-                    <p>&</p><p>Bpk Bbang - Ibu Jessica</p>
+                <p className='bg-clip-text text-md font-bold text-transparent bg-gradient-to-r from-pink-700 to-white'>Kel. Bpk Hudri - Ibu Heni
+                    <p>&</p><p>Bpk Thuryana - Ibu Nurelah</p>
                 </p>
             </div>
         </div>
