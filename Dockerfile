@@ -14,5 +14,5 @@ EXPOSE 3000
 
 ENV REACT_APP_ABLY_API_KEY=_GMLlA.b-9ZLg:ZbDw5Zngwe9A0RJLppAOR7PM3SEIE1d-KDjClTE9oLU
 
-# CMD ["npm", "run", "dev"]
-CMD ["npx", "serve", "-s", "build"]
+CMD ["npm", "run", "dev"]
+# CMD ["npx", "serve", "-s", "build"]
