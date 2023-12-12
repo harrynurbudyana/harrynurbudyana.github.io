@@ -7,7 +7,7 @@ class CommentBox extends Component {
         super(props)
         this.addComment = this.addComment.bind(this)
     }
-    async addComment(e) {
+    addComment(e) {
         e.preventDefault()
         const comment = e.target.elements.comment.value.trim()
         const name = e.target.elements.name.value.trim()
