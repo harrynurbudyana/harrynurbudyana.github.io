@@ -17,7 +17,7 @@ function App() {
         <Home />
         <Couple /> 
         <Event />
-        <Comm />
+        {/* <Comm /> */}
         <Footer />
       </div>    
   );
