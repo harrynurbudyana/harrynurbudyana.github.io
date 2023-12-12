@@ -1,0 +1,11 @@
+.github
+.trunk
+build
+.dockerignore
+.gitignore
+.nvmrc
+API_KEY.txt
+Dockerfile
+README.md
+
+node_modules

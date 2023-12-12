@@ -1,10 +1,8 @@
 FROM node:18
 
-WORKDIR /react-docker-example/
+WORKDIR /src/app/
 
-COPY public/ /react-docker-example/public
-COPY src/ /react-docker-example/src
-COPY package.json /react-docker-example/
+COPY . .
 
 RUN npm install
 
