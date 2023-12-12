@@ -69,7 +69,7 @@ function Couple() {
                     Nanda Harry Nurbudyana
                     <p className='bg-clip-text text-md-24 mt-1 font-semibold italic text-transparent bg-gradient-to-r from-brown-200 to-pink-400'>  (Chakra)</p>
                 </span>
-                <p></p>
+                <br />
                 <p className='text-sm font-normal mt-2 mb-0 
                 italic bg-clip-text text-transparent bg-gradient-to-r from-white to-violet-500'>
                     Putra dari Bapak Thuryana & Ibu Nurelah
