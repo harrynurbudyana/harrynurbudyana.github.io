@@ -6,7 +6,7 @@ import Event from './pages/Event';
 import Footer from './components/Footer';
 import Comm from './pages/Comment';
 // import FrontPage from './pages/FrontPage';
-import Ably from './components/Ably';
+// import Ably from './components/Ably';
 
 
 function App() {

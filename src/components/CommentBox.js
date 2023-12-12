@@ -1,5 +1,5 @@
 import React, {Component} from "react";
-import Ably from "./Ably";
+import keyAPI from "./Ably";
 // import axios from "axios";
 
 class CommentBox extends Component {
@@ -17,7 +17,7 @@ class CommentBox extends Component {
         if(name && comment) {
             const commentObject = { name, comment, timestamp }
 
-            const channel = Ably.channels.get("comments")
+            const channel = keyAPI.channels.get("comments")
             channel.publish("add_comment", commentObject, (err) => {
                 if (err) {
                     console.log("Unable to publish message err = " + err.message)
