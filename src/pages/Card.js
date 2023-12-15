@@ -1,5 +1,5 @@
 import React from 'react'
-import profile from '../images/couple.png'
+import invite from '../images/invite.jpg'
 import logome from '../images/logome.png'
 // import meant2be from '../audio/meant2be.mp3'
 // import iwannagrowoldwithyou from '../audio/iwannagrowoldwithyou.m4a'
@@ -12,7 +12,7 @@ function Card() {
         <div className='min-h-screen bg-transparent py-20 px-3'>
             <div className='flex flex-col justify-center max-w-xs mx-auto bg-white shadow-xl rounded-xl py-12 px-12 '>
                 <div className=''>
-                    <img className='w-32 mx-auto shadow-xl rounded-full drop-shadow-sm' src={profile} alt = 'profile sc'/>
+                    <img className='w-32 mx-auto shadow-xl rounded-full drop-shadow-sm' src={invite} alt = 'profile sc'/>
                 </div>
                 <div className='text-center mt-5'>
                     <span className='text-md sm:text-base font-bold text-brown-300'>
