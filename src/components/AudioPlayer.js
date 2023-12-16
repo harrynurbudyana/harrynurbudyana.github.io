@@ -12,8 +12,8 @@ class AudioPlayer extends React.Component {
         className="object-center mx-auto mt-1 mb-7"
         ref={(ref) => (this.audioPlayer = ref)}
         src={iwannagrowoldwithyou}
-        autoPlay
         controls
+        autoPlay
       >
         <p>
           If you are reading this, it is because your browser does not support

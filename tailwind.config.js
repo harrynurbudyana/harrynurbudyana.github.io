@@ -15,12 +15,14 @@ module.exports = {
           200 : '#C7998C',
           250 : '#E9B3A3',
           300 : '#551A25',
-        }
+        },
+        'dark-blue' : '#0d436f',
+        'obrown' : '#ec4d13'
         // 'brown': '#E6D0DE',
         // 'choco': '#C7998C',
       },
       backgroundImage: {
-        'floral-pattern' : "url(/src/images/5226644.jpg)"
+        'floral-pattern' : "url(/src/images/pink-flower.jpg)"
       },
     },
   },

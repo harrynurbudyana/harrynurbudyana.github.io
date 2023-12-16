@@ -39,7 +39,7 @@ class Comm extends Component {
   render() {
     return (
       <section className="section">
-        <div className="container">
+        <div className="min-h-full">
           <div className="columns">
             <div className="column is-half is-offset-one-quarter">
               <CommentBox />

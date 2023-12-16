@@ -11,7 +11,7 @@ import Comm from './pages/Comment';
 
 function App() {
   return (
-      <div className='min-h-screen overflow-x-auto bg-floral-pattern backdrop-blur'>
+      <div className='min-h-screen overflow-x-auto bg-floral-pattern backdrop-blur bg-contain'>
         {/* <FrontPage /> */}
         <Card />
         <Home />
