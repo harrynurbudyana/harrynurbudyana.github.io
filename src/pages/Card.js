@@ -2,7 +2,7 @@ import React from 'react'
 import invite from '../images/invite.jpg'
 import logome from '../images/logome.png'
 // import meant2be from '../audio/meant2be.mp3'
-// import iwannagrowoldwithyou from '../audio/iwannagrowoldwithyou.m4a'
+import iwannagrowoldwithyou from '../audio/iwannagrowoldwithyou.mp3'
 import AudioPlayer from '../components/AudioPlayer'
 
 
@@ -30,7 +30,7 @@ function Card() {
             </div>
             
             <div className='bg-white-700 text-sm text-white text-center inset-x-0 bottom-0 p-9'>
-                <AudioPlayer></AudioPlayer>
+                <AudioPlayer src={iwannagrowoldwithyou} />
                 
                 <footer className='text-fuchsia-950 mt-5 opacity-70'>
                     Created with 💙 by
