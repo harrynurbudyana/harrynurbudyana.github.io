@@ -59,4 +59,4 @@ jobs:
           app-name: 'theweddingoffinaandharry'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3CA72DDB64B34FC0B85C72F4C123367B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_73BE71916F4E4D97A1DE4F14D3C4C9A6 }}
